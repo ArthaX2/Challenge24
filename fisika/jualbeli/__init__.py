@@ -1,0 +1,1 @@
+from.diskon import hitung_diskon as dc
